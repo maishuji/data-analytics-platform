@@ -6,3 +6,4 @@ data/
 dumps/
 *.sql.gz
 sales_data.sql
+/README copy.md
